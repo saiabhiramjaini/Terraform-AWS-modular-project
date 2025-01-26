@@ -1,4 +1,4 @@
-### Please use your .tfvars in root directory
+### Please use your `terraform.tfvars` in root directory
 
 ```
 ami_value = ""  
