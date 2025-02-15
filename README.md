@@ -124,5 +124,3 @@ This removes all created AWS resources.
 | **Scalability** | Easily add new modules like RDS, VPC, IAM without modifying the root `main.tf`. |
 | **Flexibility** | Different environments (`dev`, `staging`, `prod`) can use the same modules with different values. |
 
----
-
